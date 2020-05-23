@@ -1,7 +1,7 @@
 ---
 services: app-service\web,app-service
 platforms: dotnet
-author: cephalin
+author: kdteja
 ---
 
 # ASP.NET sample for Azure App Service
